@@ -1,0 +1,7 @@
+name: LightAntibot
+author: Xayanix
+version: 1.29
+main: net.xayanix.antibot.basic.Main
+commands:
+    antibot:
+        description: Reloads the config and shows info.
